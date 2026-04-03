@@ -9,6 +9,8 @@
 - 霍尔角度：60
 - 扭矩：1.5~2N/m
 
+- 接线：黑蓝，黄红，绿黄
+
 # YFSkateBoard 无线串口通信协议文档
 
 > **适用固件：** YFSkateBoard ESC (STM32F103C8T6, HAL)  
