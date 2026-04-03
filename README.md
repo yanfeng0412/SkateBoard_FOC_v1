@@ -768,3 +768,5 @@ mode=POSITION，angle=360°，speed=0，vq=0.25（保持位置），pos=360°，
 ④ 完成后停止
    → 5B 00 00 00 00 00 00 00 00 40 00 00 00 00 00 00 00 00 00 5D 4F
 ```
+
+Remark Local: D:\YF_File\yff\8. JLC_Project\SkateBoard JLC\Firmware\YFSkateBoard
